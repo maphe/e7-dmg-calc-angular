@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="95a3fc23-4bbd-4392-862d-8fa8af2c66e5" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/e7-dmg-calc-angular.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/watcherTasks.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/e7damage/.browserslistrc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/e7damage/.editorconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/e7damage/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/e7damage/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/e7damage/angular.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/e7damage/e2e/protractor.conf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/e7damage/e2e/src/app.e2e-spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/e7damage/e2e/src/app.po.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/e7damage/e2e/tsconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/e7damage/karma.conf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/e7damage/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/e7damage/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/e7damage/src/app/app-routing.module.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/e7damage/src/app/app.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/e7damage/src/app/app.component.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/e7damage/src/app/app.component.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/e7damage/src/app/app.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/e7damage/src/app/app.module.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/e7damage/src/app/toolbox/stat-block/stat-block.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/e7damage/src/app/toolbox/stat-block/stat-block.component.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/e7damage/src/app/toolbox/stat-block/stat-block.component.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/e7damage/src/app/toolbox/stat-block/stat-block.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/e7damage/src/app/toolbox/toolbox.module.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/e7damage/src/assets/.gitkeep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/e7damage/src/environments/environment.prod.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/e7damage/src/environments/environment.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/e7damage/src/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/e7damage/src/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/e7damage/src/main.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/e7damage/src/polyfills.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/e7damage/src/styles.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/e7damage/src/test.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/e7damage/tsconfig.app.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/e7damage/tsconfig.base.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/e7damage/tsconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/e7damage/tsconfig.spec.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/e7damage/tslint.json" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1fVcWlBvrWcLpv0RSr2Exa0QIkD" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="js.buildTools.gulp.gulp_package_dir" value="" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="settings.typescriptcompiler" />
+    <property name="ts.external.directory.path" value="$PROJECT_DIR$/e7damage/node_modules/typescript/lib" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="js.build_tools.gulp">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="95a3fc23-4bbd-4392-862d-8fa8af2c66e5" name="Default Changelist" comment="" />
+      <created>1596306733646</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1596306733646</updated>
+      <workItem from="1596306734723" duration="2920000" />
+      <workItem from="1596314901342" duration="2381000" />
+      <workItem from="1596317581439" duration="4757000" />
+      <workItem from="1596429269101" duration="2990000" />
+      <workItem from="1596512662867" duration="365000" />
+      <workItem from="1596601618189" duration="1112000" />
+      <workItem from="1596673778354" duration="101000" />
+      <workItem from="1596693296065" duration="1660000" />
+      <workItem from="1596780409122" duration="413000" />
+      <workItem from="1597012690845" duration="235000" />
+      <workItem from="1597028488798" duration="120000" />
+      <workItem from="1597075069614" duration="524000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="451" y="273" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1596319535793">
+      <screen x="54" y="23" width="1866" height="1177" />
+    </state>
+    <state x="451" y="273" key="#com.intellij.execution.impl.EditConfigurationsDialog/54.23.1866.1177@54.23.1866.1177" timestamp="1596319535793" />
+    <state x="639" y="397" key="EditFileWatcherDialog" timestamp="1596315062012">
+      <screen x="54" y="23" width="1866" height="1177" />
+    </state>
+    <state x="639" y="397" key="EditFileWatcherDialog/54.23.1866.1177@54.23.1866.1177" timestamp="1596315062012" />
+    <state x="488" y="250" key="SettingsEditor" timestamp="1596317519460">
+      <screen x="54" y="23" width="1866" height="1177" />
+    </state>
+    <state x="488" y="250" key="SettingsEditor/54.23.1866.1177@54.23.1866.1177" timestamp="1596317519460" />
+    <state x="606" y="229" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1596319342332">
+      <screen x="54" y="23" width="1866" height="1177" />
+    </state>
+    <state x="606" y="229" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/54.23.1866.1177@54.23.1866.1177" timestamp="1596319342332" />
+    <state x="688" y="366" width="598" height="490" key="find.popup" timestamp="1596432720165">
+      <screen x="54" y="23" width="1866" height="1177" />
+    </state>
+    <state x="688" y="366" width="598" height="490" key="find.popup/54.23.1866.1177@54.23.1866.1177" timestamp="1596432720165" />
+    <state x="652" y="288" width="670" height="676" key="search.everywhere.popup" timestamp="1596329541566">
+      <screen x="54" y="23" width="1866" height="1177" />
+    </state>
+    <state x="652" y="288" width="670" height="676" key="search.everywhere.popup/54.23.1866.1177@54.23.1866.1177" timestamp="1596329541566" />
+  </component>
+</project>

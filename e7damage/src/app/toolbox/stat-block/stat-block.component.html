@@ -1,0 +1,18 @@
+<mat-card>
+  <div fxLayout="column">
+    <div fxLayout="row" fxLayoutAlign="space-between">
+      <div>Attack</div>
+      <div fxLayout="row" fxLayoutAlign="space-between">
+        <mat-form-field class="example-full-width">
+          <input matInput [value]="value">
+        </mat-form-field>
+        <button mat-mini-fab color="accent" aria-label="" (click)="incValue()">
+          <mat-icon>plus_one</mat-icon>
+        </button>
+      </div>
+    </div>
+    <div fxLayout="row">
+      <mat-slider min="1000" max="8000" step="1" [value]="value" (input)="setValue($event.value)"></mat-slider>
+    </div>
+  </div>
+</mat-card>
